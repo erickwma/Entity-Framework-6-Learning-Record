@@ -1,0 +1,14 @@
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\bin\Debug\CodeFirstWithLegacyDb.exe.config
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\bin\Debug\CodeFirstWithLegacyDb.exe
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\bin\Debug\CodeFirstWithLegacyDb.pdb
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\bin\Debug\EntityFramework.dll
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\bin\Debug\EntityFramework.SqlServer.dll
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\bin\Debug\EntityFramework.xml
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\bin\Debug\EntityFramework.SqlServer.xml
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.csprojAssemblyReference.cache
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.csproj.CoreCompileInputs.cache
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.csproj.CopyComplete
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.exe
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.pdb
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.Migrations.InitialModel.resources
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.csproj.GenerateResource.cache
