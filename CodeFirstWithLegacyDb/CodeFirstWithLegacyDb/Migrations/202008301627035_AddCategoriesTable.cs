@@ -11,11 +11,12 @@ namespace CodeFirstWithLegacyDb.Migrations
                 "dbo.Categories",
                 c => new
                     {
-                        ID = c.Int(nullable: false, identity: true),
+                        ID = c.Int(nullable: false, identity: false),
                         Name = c.String(),
                     })
                 .PrimaryKey(t => t.ID);
-            Sql("INSERT INTO Categories (Name)");
+            Sql("INSERT INTO Categories VALUES (1, 'Web Development')");
+            Sql("INSERT INTO Categories VALUES (2, 'Programming Technologies')");
         }
         
         public override void Down()
