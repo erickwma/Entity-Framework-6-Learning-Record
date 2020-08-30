@@ -12,7 +12,7 @@ namespace CodeFirst
         public CourseLevel Level { get; set; }
         public float FullPrice { get; set; }
         public Author Author { get; set; }
-        public IList<Tag> Tags { get; set; }
+        public IList<Tag> Tags { get; set; } // m2m relationship: public IList<Course> Courses { get; set; }
     }
 
     public class Author
@@ -38,7 +38,10 @@ namespace CodeFirst
 
     public class PlutoContext : DbContext
     {
-        public DbSet<Course> Courses { get; set; }
+        public DbSet<Course> Courses { get; set; } // representing a table in the database
+
+
+
         public DbSet<Author> Authors { get; set; }
         public DbSet<Tag> Tags { get; set; }
 

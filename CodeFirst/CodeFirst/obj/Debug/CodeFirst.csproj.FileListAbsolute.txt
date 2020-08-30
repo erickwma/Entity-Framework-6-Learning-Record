@@ -1,0 +1,14 @@
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
