@@ -12,3 +12,4 @@ I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\Co
 I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.pdb
 I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.Migrations.InitialModel.resources
 I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.csproj.GenerateResource.cache
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.Migrations.AddCategoriesTable.resources
