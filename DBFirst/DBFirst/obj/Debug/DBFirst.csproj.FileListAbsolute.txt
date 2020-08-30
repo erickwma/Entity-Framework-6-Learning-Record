@@ -1,0 +1,12 @@
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\bin\Debug\DBFirst.exe.config
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\bin\Debug\DBFirst.exe
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\bin\Debug\DBFirst.pdb
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\bin\Debug\EntityFramework.dll
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\bin\Debug\EntityFramework.xml
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\obj\Debug\DBFirst.csprojAssemblyReference.cache
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\obj\Debug\DBFirst.csproj.CoreCompileInputs.cache
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\obj\Debug\DBFirst.csproj.CopyComplete
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\obj\Debug\DBFirst.exe
+I:\Github Repository\Entity Framework 6 Learning Record\DBFirst\DBFirst\obj\Debug\DBFirst.pdb
