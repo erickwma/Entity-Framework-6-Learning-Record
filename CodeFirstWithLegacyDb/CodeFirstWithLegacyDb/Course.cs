@@ -23,8 +23,6 @@ namespace CodeFirstWithLegacyDb
 
         public Category Category { get; set; }
 
-        public DateTime? DatePublished { get; set; }
-
         public int Level { get; set; }
 
         public float FullPrice { get; set; }
