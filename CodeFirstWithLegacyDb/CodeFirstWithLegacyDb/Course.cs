@@ -21,7 +21,7 @@ namespace CodeFirstWithLegacyDb
 
         public string Description { get; set; }
 
-        public Category Category { get; set; }
+        //public Category Category { get; set; }
 
         public int Level { get; set; }
 
