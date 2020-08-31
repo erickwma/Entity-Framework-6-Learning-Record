@@ -14,3 +14,4 @@ I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\Co
 I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.csproj.GenerateResource.cache
 I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.Migrations.AddCategoriesTable.resources
 I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.Migrations.AddCategoryColumnToCoursesTable.resources
+I:\Github Repository\Entity Framework 6 Learning Record\CodeFirstWithLegacyDb\CodeFirstWithLegacyDb\obj\Debug\CodeFirstWithLegacyDb.Migrations.AddDatePublishedColumnToCoursesTable.resources
