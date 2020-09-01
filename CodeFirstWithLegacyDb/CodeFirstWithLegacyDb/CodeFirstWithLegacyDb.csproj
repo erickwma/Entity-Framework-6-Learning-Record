@@ -86,6 +86,10 @@
     <Compile Include="Migrations\202008310451248_DeleteCategoriesTable.Designer.cs">
       <DependentUpon>202008310451248_DeleteCategoriesTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202009010636217_Foo.cs" />
+    <Compile Include="Migrations\202009010636217_Foo.Designer.cs">
+      <DependentUpon>202009010636217_Foo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="PlutoContext.cs" />
     <Compile Include="Program.cs" />
@@ -120,6 +124,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202008310451248_DeleteCategoriesTable.resx">
       <DependentUpon>202008310451248_DeleteCategoriesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009010636217_Foo.resx">
+      <DependentUpon>202009010636217_Foo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
