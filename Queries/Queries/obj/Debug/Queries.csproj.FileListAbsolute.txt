@@ -22,3 +22,17 @@ C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.GenerateRes
 \\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
 \\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.Migrations.InitialMigration.resources
 \\vmware-host\Shared Folders\Desktop\Queries\Queries\obj\Debug\Queries.csproj.GenerateResource.Cache
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\bin\Debug\Queries.exe.config
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\bin\Debug\Queries.exe
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\bin\Debug\Queries.pdb
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\bin\Debug\EntityFramework.dll
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\bin\Debug\EntityFramework.SqlServer.dll
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\bin\Debug\EntityFramework.xml
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\bin\Debug\EntityFramework.SqlServer.xml
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\obj\Debug\Queries.Migrations.InitialMigration.resources
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\obj\Debug\Queries.csproj.GenerateResource.cache
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\obj\Debug\Queries.csproj.CopyComplete
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\obj\Debug\Queries.exe
+I:\Github Repository\Entity Framework 6 Learning Record\Queries\Queries\obj\Debug\Queries.pdb
